@@ -1,5 +1,5 @@
 # Hello, I'm ADI SURYADIN 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/adi-suryadin-5b6a622b0?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-adi-suryadin-5b6a622b0?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
